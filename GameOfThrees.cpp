@@ -1,3 +1,12 @@
+//
+//A Game of Threes
+//
+//First, you generate a large, random number. Then, If the number 
+//is divisible by 3, divide it by 3. If the number is not divisible 
+//by 3, you add or subtract 1 (to make it divisible by 3) and then 
+//you divide it by 3. The game stops when you reach "1".
+//
+
 #include <iostream>
 using namespace std;
 int main()
