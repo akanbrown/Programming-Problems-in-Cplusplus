@@ -11,7 +11,6 @@ another example,
 #include <algorithm>
 
 using namespace std;
-
 int main() {
 
     vector<string> atomicSymbols = { "Ac", "Al", "Am", "Sb", "Ar", "As",
