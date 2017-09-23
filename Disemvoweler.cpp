@@ -38,7 +38,6 @@ int main(void){
             if(!isVowel(str[i]) && str[i]!=' '){
                  consStr+=str[i];
             }
-
             if(isVowel(str[i])){
                  vowelStr+=str[i];
             }
