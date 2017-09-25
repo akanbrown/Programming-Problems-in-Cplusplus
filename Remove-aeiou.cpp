@@ -1,6 +1,5 @@
 /*
-Disemvoweling is the removal of vowels and spaces from a string of characters. 
-We must then display the removed vowels.
+Remove, then display, the vowels in a user supplied string.
 
 ----------------------------------------------------------
 For example:
