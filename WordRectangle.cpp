@@ -4,7 +4,7 @@
 #include <fstream>
 #include <vector>
 
-class VaEtVient
+class WordRectangle
 {
 private:
     int current;
@@ -12,7 +12,7 @@ private:
     int end;
     bool backwards;
 public:
-    VaEtVient(int start, int end);
+    WordRectangle(int start, int end);
     void startFrom(int number, bool backwards);
     int nextNumber();
 };
@@ -23,8 +23,8 @@ private:
     std::vector<std::vector<char>> grid;
     std::string input;
 
-    void fillColumn(int col, VaEtVient& vev);
-    void fillRow(int row, VaEtVient& vev);
+    void fillColumn(int col, WordRectangle& vev);
+    void fillRow(int row, WordRectangle& vev);
 
 public:
     Rektangle(std::string input, int width, int height);
