@@ -1,3 +1,3 @@
 # Programming-Problems-in-C++
 
-A few programming problems and their solutions in C++.
+Programming problems and their solutions in C++.
