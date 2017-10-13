@@ -7,7 +7,6 @@ int factorial(int num){
     else {
         return (num * factorial(num - 1));
     }
-
 }
 
 int main()
