@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
  
-//Sorts an array arr[] of arbitrary size n using the Bubble Sort algori.
+//Sorts an array arr[] of arbitrary size n using the Bubble Sort algorithm.
 
 void BubbleSort (int arr[], int n)
 {
