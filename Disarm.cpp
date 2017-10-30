@@ -2,7 +2,7 @@
 To disarm the bomb you have to cut some wires. These wires are either white, black, purple, red, green or orange.
 These are the rules for disarming:
 You can't cut white or black cable if you cut a white cable.
-If you cut a red cable you have to cut a green cable.
+You have to cut a green cable. If you cut a red cable.
 If you cut a black cable it is not allowed to cut a white, green or orange one
 If you cut a orange cable you should cut a red or black one
 If you cut a green one you have to cut a orange or white one
